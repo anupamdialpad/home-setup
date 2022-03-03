@@ -3,5 +3,6 @@ Setup $HOME after creating a server
 ```bash
 cd home-setup
 bash necessity.sh
+. ~/.bashrc
 ```
-logout and login
+

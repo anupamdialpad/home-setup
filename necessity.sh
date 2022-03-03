@@ -21,4 +21,4 @@ if [[ $mine ]]; then
   cp ./.vimrc ~/.vimrc
 fi
 
-echo "run: source ~/.bashrc"
+echo "run: . ~/.bashrc"
